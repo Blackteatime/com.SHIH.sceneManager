@@ -1,5 +1,5 @@
-﻿{
-  "name": "com.SHIH.sceneManager",
+{
+  "name": "com.shih.scenemanager",
   "version": "1.0.0",
   "displayName": "SHIH工具包:場景管理器",
   "description": "提供切換場景及退出場景的功能",
